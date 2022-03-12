@@ -12,19 +12,17 @@
         ]
       },
       "locked": {
-        "dir": "nimpkgs/c/c_alikes",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
+        "lastModified": 1647057529,
+        "narHash": "sha256-I6Q1D/klWrUm9UXGlA8m+OvBtarYYt8aNB1RhGmRNcs=",
+        "owner": "nim-nix-pkgs",
+        "repo": "c_alikes",
+        "rev": "78745d570cd6e99bcece6dc70362df06b73cd273",
         "type": "github"
       },
       "original": {
-        "dir": "nimpkgs/c/c_alikes",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "c_alikes",
         "type": "github"
       }
     },
@@ -41,20 +39,13 @@
         "src-c_alikes-master": "src-c_alikes-master"
       },
       "locked": {
-        "dir": "nimpkgs/c/c_alikes/master",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-d9QQiS0Xs1oJR5+a51Iq2poh+nzVfVcWwVGtbHVk5XE=",
+        "path": "./master",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/c/c_alikes/master",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./master",
+        "type": "path"
       }
     },
     "c_alikes-v0_2_0": {
@@ -70,20 +61,13 @@
         "src-c_alikes-v0_2_0": "src-c_alikes-v0_2_0"
       },
       "locked": {
-        "dir": "nimpkgs/c/c_alikes/v0_2_0",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-BzKCSI7tVaxDPiVpZm/u60cVmsHwCtIHlc1w7mBoimc=",
+        "path": "./v0_2_0",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/c/c_alikes/v0_2_0",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_2_0",
+        "type": "path"
       }
     },
     "flakeNimbleLib": {
