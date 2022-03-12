@@ -12,11 +12,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647057529,
-        "narHash": "sha256-I6Q1D/klWrUm9UXGlA8m+OvBtarYYt8aNB1RhGmRNcs=",
+        "lastModified": 1647112196,
+        "narHash": "sha256-BzW8ds8e5zI1gLgiasn0tfah3p0DSwgSw/M0/ylz/H0=",
         "owner": "nim-nix-pkgs",
         "repo": "c_alikes",
-        "rev": "78745d570cd6e99bcece6dc70362df06b73cd273",
+        "rev": "9cf6734f47d05dc06db762f5d9fa9c229de037fc",
         "type": "github"
       },
       "original": {
@@ -39,13 +39,20 @@
         "src-c_alikes-master": "src-c_alikes-master"
       },
       "locked": {
-        "narHash": "sha256-d9QQiS0Xs1oJR5+a51Iq2poh+nzVfVcWwVGtbHVk5XE=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112196,
+        "narHash": "sha256-BzW8ds8e5zI1gLgiasn0tfah3p0DSwgSw/M0/ylz/H0=",
+        "owner": "nim-nix-pkgs",
+        "repo": "c_alikes",
+        "rev": "9cf6734f47d05dc06db762f5d9fa9c229de037fc",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "c_alikes",
+        "type": "github"
       }
     },
     "c_alikes-v0_2_0": {
@@ -61,13 +68,20 @@
         "src-c_alikes-v0_2_0": "src-c_alikes-v0_2_0"
       },
       "locked": {
-        "narHash": "sha256-BzKCSI7tVaxDPiVpZm/u60cVmsHwCtIHlc1w7mBoimc=",
-        "path": "./v0_2_0",
-        "type": "path"
+        "dir": "v0_2_0",
+        "lastModified": 1647112196,
+        "narHash": "sha256-BzW8ds8e5zI1gLgiasn0tfah3p0DSwgSw/M0/ylz/H0=",
+        "owner": "nim-nix-pkgs",
+        "repo": "c_alikes",
+        "rev": "9cf6734f47d05dc06db762f5d9fa9c229de037fc",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_2_0",
-        "type": "path"
+        "dir": "v0_2_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "c_alikes",
+        "type": "github"
       }
     },
     "flakeNimbleLib": {
