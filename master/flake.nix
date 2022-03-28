@@ -11,6 +11,7 @@
   inputs.src-memviews-master.ref   = "refs/heads/master";
   inputs.src-memviews-master.owner = "ReneSac";
   inputs.src-memviews-master.repo  = "memviews";
+  inputs.src-memviews-master.dir   = "";
   inputs.src-memviews-master.type  = "github";
   
   inputs."c_alikes".owner = "nim-nix-pkgs";
